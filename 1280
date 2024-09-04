@@ -20,7 +20,7 @@
 		<li>Alternative ROck</li>
 	</ul>
 	<i>my courses in a week in order of days</i>
-	<ol type="A" id="my list">
+	<ol type="A" id="my list" class="list">
 		<li>1280</li>
 		<li>1180</li>
 		<li>1175</li>
